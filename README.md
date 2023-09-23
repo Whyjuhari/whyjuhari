@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=500&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Junior+Programming" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=4000&pause=500&color=F74213&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+There+I'M+JuHaRi;From+Informatic+Study+Club+;In+order+to+improve+coding+skills+%F0%9F%92%BB" alt="Typing SVG" /></a>
+
 <h3 align="center">Passionate frontend developer from West Sulawesi University</h3>
 
 <img src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="coding" align="right" width="300">
